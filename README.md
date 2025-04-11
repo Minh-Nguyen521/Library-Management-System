@@ -19,10 +19,6 @@ A Java-based console application for managing a library system with different us
   - Return books
   - View available books
 
-## Requirements
-
-- Java 11 or higher
-
 ## Setup and Running
 
 ### Using javac (Simpler)
@@ -35,13 +31,6 @@ javac src/model/*.java src/service/*.java src/LibraryManagementSystem.java
 ```bash
 java -cp src LibraryManagementSystem
 ```
-
-## First Time Setup
-
-The system will automatically create these files on first run:
-- users.txt: User accounts
-- books.txt: Book inventory
-- transactions.txt: Borrowing history
 
 ## Default Admin Account
 
