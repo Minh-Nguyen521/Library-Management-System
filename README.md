@@ -21,7 +21,7 @@ A Java-based console application for managing a library system with different us
 
 ## Setup and Running
 
-### Using javac (Simpler)
+### Using javac
 1. Compile the code:
 ```bash
 javac src/model/*.java src/service/*.java src/LibraryManagementSystem.java
